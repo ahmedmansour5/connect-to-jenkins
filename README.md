@@ -1,10 +1,4 @@
-<b> Using the repo to test a Jenkins pipeline with GitHub connection. </b>
-
-<br> 
-
-</br>
-
-
+## Connecting to jenkins using the below JenkinsFile
 ```
 pipeline {
     agent any
