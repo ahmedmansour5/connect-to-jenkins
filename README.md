@@ -1,6 +1,11 @@
-// Using the repo to test a Jenkins pipeline with GitHub connection. 
+<b> Using the repo to test a Jenkins pipeline with GitHub connection. </b>
+
+<br> 
+
+</br>
 
 
+```
 pipeline {
     agent any
 
@@ -62,6 +67,4 @@ pipeline {
         }
     }
 }
-
-
-//
+```
